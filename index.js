@@ -5,3 +5,5 @@ const vik = "Vikram";
 const addTwo = (x, y) => x + y;
 
 console.log(addTwo(4, 5));
+
+console.log("Vikram is the greatest!");
