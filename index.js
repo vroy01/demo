@@ -8,4 +8,8 @@ console.log(addTwo(4, 5));
 
 console.log("Vikram is the greatest!");
 
-[1,2,3,4,5].forEach(value => console.log(value);
+[1,2,3,4,5].forEach((value, index) => {
+  console.log(`Index ${index}: ${value}`);
+});
+
+console.log("Poker is life!");
